@@ -157,7 +157,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 [**R**] `outliers package <https://cran.r-project.org/web/packages/outliers/index.html>`_\ : A collection of some tests commonly used for identifying outliers in R.
 
-[**Matlab**] `Anomaly Detection Toolbox - Beta <http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/>`_\ : A collection of popular outlier detection algorithms in Matlab.
+[**Matlab**] `Anomaly Detection Toolbox - Beta <https://github.com/dsmi-lab-ntust/AnomalyDetectionToolbox/>`_\ : A collection of popular outlier detection algorithms in Matlab.
 
 
 3.2. Time series outlier detection
